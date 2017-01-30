@@ -12,6 +12,7 @@
 		63F42E2E1E3F8FEF00FB5F6B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 63F42E2C1E3F8FEF00FB5F6B /* Main.storyboard */; };
 		63F42E301E3F8FEF00FB5F6B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 63F42E2F1E3F8FEF00FB5F6B /* Assets.xcassets */; };
 		63F42E331E3F8FEF00FB5F6B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 63F42E311E3F8FEF00FB5F6B /* LaunchScreen.storyboard */; };
+		63F42E3B1E3F977300FB5F6B /* pokemon.csv in Resources */ = {isa = PBXBuildFile; fileRef = 63F42E3A1E3F977300FB5F6B /* pokemon.csv */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		63F42E2F1E3F8FEF00FB5F6B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		63F42E321E3F8FEF00FB5F6B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		63F42E341E3F8FEF00FB5F6B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		63F42E3A1E3F977300FB5F6B /* pokemon.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = pokemon.csv; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 				63F42E2A1E3F8FEF00FB5F6B /* ViewController.swift */,
 				63F42E2C1E3F8FEF00FB5F6B /* Main.storyboard */,
 				63F42E2F1E3F8FEF00FB5F6B /* Assets.xcassets */,
+				63F42E3A1E3F977300FB5F6B /* pokemon.csv */,
 				63F42E311E3F8FEF00FB5F6B /* LaunchScreen.storyboard */,
 				63F42E341E3F8FEF00FB5F6B /* Info.plist */,
 			);
@@ -126,6 +129,7 @@
 			files = (
 				63F42E331E3F8FEF00FB5F6B /* LaunchScreen.storyboard in Resources */,
 				63F42E301E3F8FEF00FB5F6B /* Assets.xcassets in Resources */,
+				63F42E3B1E3F977300FB5F6B /* pokemon.csv in Resources */,
 				63F42E2E1E3F8FEF00FB5F6B /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -300,6 +304,7 @@
 				63F42E391E3F8FEF00FB5F6B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
